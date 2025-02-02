@@ -1,4 +1,4 @@
-#Tridiagonal Linear Systems
+# Tridiagonal Linear Systems
 
 During this project, I will create a program that will simulate a matrix that has a non-zero entries only on the main diagonal.
 
